@@ -9,7 +9,9 @@ namespace NetCore.ConsoleApp
 
 
 
+
             Console.WriteLine("Hello World!");
+
 
 
 
